@@ -14,7 +14,6 @@ permalink: /
 ## PoliSci 152: Living on the Nuclear Brink
 
 **Semester Year**
-**can i cut and paste**
 
 **Instructor: **Dr. ××**   
 **Office**: Building Number  
