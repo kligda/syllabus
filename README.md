@@ -5,13 +5,13 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**Stanford University**
 
-**College**
+**School of Engineering**
 
 **Unit**
 
-## Course Number: Course Title
+## PoliSci 152: Living on the Nuclear Brink
 
 **Semester Year**
 
